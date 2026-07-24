@@ -42,6 +42,24 @@ MBE uses three layers:
 
 See [NOVELTY.md](NOVELTY.md) for detailed analysis.
 
+## Defense & Intelligence Applications
+
+MBE has significant potential for defense and intelligence agencies:
+
+- **NSA/CIA** - Signals intelligence, encrypted traffic analysis
+- **FBI** - Cybercrime investigation, counterintelligence
+- **DARPA** - Research funding for novel computing architectures
+- **US Cyber Command** - Offensive/defensive cyber operations
+
+**Key Capabilities:**
+- Processes unknown data without prior knowledge
+- Detects anomalies via NCD boundary detection
+- Self-adapts hardware based on data patterns
+- Operates at hardware speed for real-time analysis
+- Resists adversarial manipulation
+
+See [DEFENSE_INTELLIGENCE.md](DEFENSE_INTELLIGENCE.md) for detailed analysis.
+
 ## Repository Structure
 
 ```
