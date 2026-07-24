@@ -30,6 +30,18 @@ MBE uses three layers:
 - **Constant-time recurrence** - O(1) per bit processing instead of O(N²) attention
 - **Multi-stream concurrency** - Processes multiple data streams simultaneously with mathematical isolation
 
+## Is This Work Novel?
+
+**Yes.** Based on comprehensive research across academic databases (Google Scholar), code repositories (GitHub), and technical literature, the Morphic Bitstream Engine (MBE) represents a **novel architecture** that has not been previously implemented or described.
+
+**Key Findings:**
+- No existing "Morphic Bitstream Engine" exists
+- No combination of State-Space Models + NCD + Hardware Synthesis exists
+- First to use NCD for bitstream boundary detection
+- First to use SSM state as hardware configuration
+
+See [NOVELTY.md](NOVELTY.md) for detailed analysis.
+
 ## Repository Structure
 
 ```
